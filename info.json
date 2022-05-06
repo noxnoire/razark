@@ -1,0 +1,34 @@
+{
+  "HosterName": "NoxNoire",
+  "ServerName": "RAZA Server",
+  "ClusterName": "RAZA Cluster",
+  "IconUrl": "https://github.com/noxnoire/razark/raw/main/raza.png",
+  "Discord": "",
+  "ServerDescription":
+  {
+    "MaxDinoLvl": 180,
+    "Taming": 3,
+    "Experience": 1,
+    "Harvesting": 3,
+    "Breeding": 60,
+    "Stacks": 10,
+    "Other":
+    [
+        "none yet"
+    ]
+  },
+  "ClusterDescription":
+  {
+    "MaxDinoLvl": 180,
+    "Taming": 3,
+    "Experience": 1,
+    "Harvesting": 3,
+    "Breeding": 60,
+    "Stacks": 10,
+    "Other":
+    [
+        "none",
+        "yet"
+    ]
+  }
+}
